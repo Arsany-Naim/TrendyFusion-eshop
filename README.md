@@ -1,6 +1,6 @@
 <div align="center">
 
-# TrendyFusion E-Shop
+# ✈️ TrendyFusion E-Shop
 
 ### An enterprise-grade ASP.NET Core MVC platform built with clean architecture, SOLID principles, and modern .NET best practices.
 
